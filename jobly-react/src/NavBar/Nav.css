@@ -1,0 +1,13 @@
+.Nav {
+    background-color: white;
+    border-bottom: 2px solid rgba(0,0,0, .125);
+    box-sizing: border-box;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 2;
+}
+
+a.active {
+    font-weight: bold;
+}
